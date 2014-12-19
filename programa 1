@@ -1,0 +1,54 @@
+groovy> println  "Hola" 
+groovy> def hora_actual =24 
+groovy> if (hora_actual < 5) { 
+groovy> println "Buenos Dias" 
+groovy> } 
+groovy> else if (hora_actual < 19) { 
+groovy> println "Buenas tardes" 
+groovy> } 
+groovy> else { 
+groovy> println "Buenas noches" 
+groovy> } 
+ 
+groovy> println  "Hola" 
+groovy> def hora_actual =24 
+groovy> if (hora_actual < 5) { 
+groovy> println "Buenos Dias" 
+groovy> } 
+groovy> else if (hora_actual < 19) { 
+groovy> println "Buenas tardes" 
+groovy> } 
+groovy> else { 
+groovy> println "Buenas noches" 
+groovy> } 
+ 
+Hola
+Buenas noches
+groovy> println  "Hola" 
+groovy> def hora_actual =2 
+groovy> if (hora_actual < 5) { 
+groovy> println "Buenos Dias" 
+groovy> } 
+groovy> else if (hora_actual < 19) { 
+groovy> println "Buenas tardes" 
+groovy> } 
+groovy> else { 
+groovy> println "Buenas noches" 
+groovy> } 
+ 
+Hola
+Buenos Dias
+groovy> println  "Hola" 
+groovy> def hora_actual =15 
+groovy> if (hora_actual < 5) { 
+groovy> println "Buenos Dias" 
+groovy> } 
+groovy> else if (hora_actual < 19) { 
+groovy> println "Buenas tardes" 
+groovy> } 
+groovy> else { 
+groovy> println "Buenas noches" 
+groovy> } 
+ 
+Hola
+Buenas tardes 
