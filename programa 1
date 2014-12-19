@@ -3,7 +3,7 @@ groovy> def hora_actual =24
 groovy> if (hora_actual < 5) { 
 groovy> println "Buenos Dias" 
 groovy> } 
-groovy> else if (hora_actual < 19) { 
+groovy> else if (hora_atrasada < 19) { 
 groovy> println "Buenas tardes" 
 groovy> } 
 groovy> else { 
